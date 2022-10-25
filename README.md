@@ -12,15 +12,16 @@ javascript html5 css3 bootstrap react redux nodejs express git postgresql postma
 ### Projects
 ✔Ecommerce Universal Music
     <details>
-      <summary>Click me</summary>
+        <summary>More detail</summary>
         Proyecto en grupo realizado para el Bootcamp Henry, esta aplicacion permite ver productos musicales de alta calidad, donde el usuario podra filtrar productos           por calificacion, precio y categorias, el usuario tendra la posibilidad de agregar productos a un carrito donde solo podra realizar el pago atravez de Stripe           si se registra con un correo o bien con un usuario de google. Ademas cuenta con un panel de administracion el cual permite al admin listar todos los productos,         eliminar, editar y crear otros. Tambien podra ver todas las ordenes de compra que se hicieron, confirmarlas o cancelar.
 
-        Link del repo Api: uv-api
+        Link del repo Api: uv-api -> https://github.com/Jos4ma/api-pf-ecommerce
 
-        Link del repo Client: uv-client
+        Link del repo Client: uv-client  -> https://github.com/Jos4ma/client-pf-ecommerce
 
-        Link Web: web-universalmusic.app
-
+        Link Web: www.web-universalmusic.app
+        
+        
         
 
         Desarrollada
