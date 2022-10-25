@@ -24,7 +24,8 @@ javascript html5 css3 bootstrap react redux nodejs express git postgresql postma
         
         
 
-        Desarrollada
+  Desarrollada con:
+  
         React
 
         Tailwindcss
