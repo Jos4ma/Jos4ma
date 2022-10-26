@@ -7,7 +7,8 @@ I've been Fullstack Javascript for a short time, but it's something I've wanted 
 
 
 ### Technologies
-javascript html5 css3 bootstrap react redux nodejs express git postgresql postman
+<img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" width="120" height="120"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" width="120" height="120"/> css3 bootstrap react redux nodejs express git postgresql postman
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU
 
 ### Projects
 ✔Ecommerce Universal Music
