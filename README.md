@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is José María !
 
 ### About me
-I've been Fullstack Javascript for a short time, but it's something I've wanted to do for a long time and when I finished my last job in a big company, last year, it already seemed attractive to work on this
+I've been Fullstack Javascript for a short time, but it's something I've wanted to do for a long time and when I finished my last job of 15 years in a big company, last year, it already seemed attractive to work on this
   I wanted to prepare myself and remove the spider webs from what I had studied long ago. Fortunately, I have felt a great advance.
 
 
