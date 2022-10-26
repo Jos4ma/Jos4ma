@@ -62,7 +62,8 @@ javascript html5 css3 bootstrap react redux nodejs express git postgresql postma
 <details>
         <summary>More detail</summary>
   
-        Link del repo:    https://github.com/Jos4ma/PI-Videogames-main    
+  
+Link del repo:    https://github.com/Jos4ma/PI-Videogames-main    
   
   
   Images:
