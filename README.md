@@ -19,19 +19,22 @@ I've been Fullstack Javascript for a short time, but it's something I've wanted 
   Proyecto en grupo realizado para el Bootcamp Henry, esta aplicacion permite ver productos musicales de alta calidad, donde el usuario podra filtrar productos           por calificacion, precio y categorias, el usuario tendra la posibilidad de agregar productos a un carrito donde solo podra realizar el pago atravez de Stripe           si se registra con un correo o bien con un usuario de google. Ademas cuenta con un panel de administracion el cual permite al admin listar todos los productos,         eliminar, editar y crear otros. Tambien podra ver todas las ordenes de compra que se hicieron, confirmarlas o cancelar.
 
   
-  Link del repo Api:  https://github.com/Jos4ma/api-pf-ecommerce
+  Repo Api Link:  https://github.com/Jos4ma/api-pf-ecommerce
 
-  Link del repo Client:  https://github.com/Jos4ma/client-pf-ecommerce
+  Repo Client Link:  https://github.com/Jos4ma/client-pf-ecommerce
 
-  Link Web: www.web-universalmusic.app
+  Web Link: www.web-universalmusic.app
  
+  Described Video Link:  https://www.youtube.com/watch?v=S5DMwwXqmsA
+  
   
   Images:
   
   <img src="https://github.com/Jos4ma/data/blob/main/1.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/2.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/3.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/4.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/5.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/6.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/7.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/8.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/9.png" width="110" height="70">
   
   
-  Desarrollada con:
+  
+  Developed Tools Used:
   
         React
 
@@ -65,7 +68,7 @@ I've been Fullstack Javascript for a short time, but it's something I've wanted 
         <summary>More detail</summary>
   
   
-Link del repo:    https://github.com/Jos4ma/PI-Videogames-main    
+Repo Link:    https://github.com/Jos4ma/PI-Videogames-main    
   
   
   Images:
