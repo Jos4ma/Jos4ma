@@ -16,7 +16,7 @@ I've been Fullstack Javascript for a short time, but it's something I've wanted 
     <details>
         <summary>More detail</summary>
     
-  Proyecto en grupo realizado para el Bootcamp Henry, esta aplicacion permite ver productos musicales de alta calidad, donde el usuario podra filtrar productos           por calificacion, precio y categorias, el usuario tendra la posibilidad de agregar productos a un carrito donde solo podra realizar el pago atravez de Stripe           si se registra con un correo o bien con un usuario de google. Ademas cuenta con un panel de administracion el cual permite al admin listar todos los productos,         eliminar, editar y crear otros. Tambien podra ver todas las ordenes de compra que se hicieron, confirmarlas o cancelar.
+  Proyecto en grupo realizado para el Bootcamp Henry, esta aplicación permite ver productos musicales de alta calidad, donde el usuario podrá filtrar productos           por calificación, precio y categorías, el usuario tendrá la posibilidad de agregar productos a un carrito donde solo podrá realizar el pago a travez de Stripe           si se registra con un correo o bien con un usuario de google. Además cuenta con un panel de administración el cual permite al admin listar todos los productos,         eliminar, editar y crear otros. También podrá ver todas las ordenes de compra que se hicieron, confirmarlas o cancelar.
 
   
   Repo Api Link:  https://github.com/Jos4ma/api-pf-ecommerce
@@ -68,6 +68,7 @@ I've been Fullstack Javascript for a short time, but it's something I've wanted 
 <details>
         <summary>More detail</summary>
   
+  Proyecto individual de prueba realizado para Henry. Esta aplicación nos permite revisar un catalogo con juegos de video clásicos con sus respectivos detalles en pantalla completa. Además cuenta con pantalla de presentación, y una pantalla para realizar nuestros propios aportes con los juegos ausentes en el catálogo. 
   
 Repo Link:    https://github.com/Jos4ma/PI-Videogames-main    
   
