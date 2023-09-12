@@ -68,11 +68,12 @@ I've been Fullstack Javascript for a short time, but it's something I've wanted 
 <details>
         <summary>More detail</summary>
   
-  Proyecto individual de prueba realizado para Henry. Esta aplicación nos permite revisar un catalogo con juegos de video clásicos con sus respectivos detalles en pantalla completa. Además cuenta con pantalla de presentación, y una pantalla para realizar nuestros propios aportes con los juegos ausentes en el catálogo. 
+  Proyecto individual de prueba realizado para Henry. Esta aplicación nos permite revisar un catalogo con juegos de video clásicos con sus respectivos detalles en pantalla completa. Además cuenta con pantalla de presentación, y una pantalla para realizar nuestros propios aportes con los juegos ausentes en el catálogo. Recientemente actualizado a responsive versión.
   
 Repo Link:    https://github.com/Jos4ma/PI-Videogames-main    
   
-Deployment Link:   https://videogames-client-git-master-jos4ma.vercel.app/ 
+Deployment Link:   https://pi-videogames-main-responsive.vercel.app/
+
  
   
   Images:
