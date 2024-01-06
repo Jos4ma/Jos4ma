@@ -12,6 +12,34 @@ I've been Fullstack Javascript for a short time, but it's something I've wanted 
 
 
 ### Projects
+
+✔ Videogames single proyect (Responsive Updated)
+
+<details>
+        <summary>More detail</summary>
+  
+  Proyecto individual de prueba realizado para Henry. Esta aplicación nos permite revisar un catalogo con juegos de video clásicos con sus respectivos detalles en pantalla completa. Además cuenta con pantalla de presentación, y una pantalla para realizar nuestros propios aportes con los juegos ausentes en el catálogo. Recientemente actualizado a responsive versión.
+  
+Repo Link:    https://github.com/Jos4ma/PI-Videogames-main    
+  
+Deployment Link:   https://pi-videogames-main-responsive.vercel.app/
+
+ 
+  
+  Images:
+  
+  <img src="https://github.com/Jos4ma/data/blob/main/videogame1.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/videogame2.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/videogame3.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/videogame4.png" width="110" height="70">
+    </details>
+
+
+
+✔Microservices App
+    <details>
+        <summary>More detail</summary>
+        ApiRESTful created using microservices structure
+        Repo Link:  [https://github.com/Jos4ma/api-pf-ecommerce](https://github.com/Jos4ma/withMicroServices)
+    </details>
+
 ✔Ecommerce Universal Music
     <details>
         <summary>More detail</summary>
@@ -63,25 +91,7 @@ I've been Fullstack Javascript for a short time, but it's something I've wanted 
 
 
   
-✔ Videogames single proyect (Responsive Updated)
 
-<details>
-        <summary>More detail</summary>
-  
-  Proyecto individual de prueba realizado para Henry. Esta aplicación nos permite revisar un catalogo con juegos de video clásicos con sus respectivos detalles en pantalla completa. Además cuenta con pantalla de presentación, y una pantalla para realizar nuestros propios aportes con los juegos ausentes en el catálogo. Recientemente actualizado a responsive versión.
-  
-Repo Link:    https://github.com/Jos4ma/PI-Videogames-main    
-  
-Deployment Link:   https://pi-videogames-main-responsive.vercel.app/
-
- 
-  
-  Images:
-  
-  <img src="https://github.com/Jos4ma/data/blob/main/videogame1.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/videogame2.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/videogame3.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/videogame4.png" width="110" height="70">
-    </details>
-  
-  
   
 <!--
 **Jos4ma/Jos4ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
