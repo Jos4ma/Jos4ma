@@ -63,7 +63,7 @@ I've been Fullstack Javascript for a short time, but it's something I've wanted 
 
 
   
-✔ Videogames single proyect
+✔ Videogames single proyect (Responsive Updated)
 
 <details>
         <summary>More detail</summary>
