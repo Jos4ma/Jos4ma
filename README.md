@@ -36,7 +36,7 @@ Deployment Link:   https://pi-videogames-main-responsive.vercel.app/
 ✔Microservices App
     <details>
         <summary>More detail</summary>
-        ApiRESTful created using microservices structure
+        Api RESTful created using microservices structure
         Repo Link:  [https://github.com/Jos4ma/api-pf-ecommerce](https://github.com/Jos4ma/withMicroServices)
     </details>
 
