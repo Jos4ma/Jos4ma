@@ -49,7 +49,7 @@ I am an Information Systems Engineer focused on building secure backend architec
 
 ## 📬 Connect with me
 
-*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+*   **LinkedIn:** https://www.linkedin.com/in/josemariadev/
 *   **Email:** josemariavictorg@gmail.com
 *   **Languages:** English (Intermediate-Advanced B1/B2/C1 Practice) | Spanish (Native)
 
