@@ -1,117 +1,58 @@
-### Hi there 👋 my name is José María !
+# Hi there! I'm José María González Astorga 👋
+### Information Security Specialist (ISO 27001) | Software & Backend Engineer
 
-### About me
-I've been Fullstack Javascript for a short time, but it's something I've wanted to do for a long time and when I finished my last job of 15 years in a big company, last year, it already seemed attractive to work on this
-  I wanted to prepare myself and remove the spider webs from what I had studied long ago. Fortunately, I have felt a great advance.
+I am an Information Systems Engineer focused on building secure backend architectures, managing cloud infrastructure, and implementing robust Information Security Management Systems (ISMS). With over a decade of hands-on experience in corporate technology infrastructure and systems management, I bridge the gap between secure code development and international compliance standards.
 
+---
 
+## 🛠️ Tech Stack & Expertise
 
-## Technologies
-      
-<img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" width="130" height="120"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" width="120" height="120"/> <img src="https://asivaelpaisco.files.wordpress.com/2016/11/css3.png" width="90" height="120"/> <img src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" width="130" height="120"/> <img src="https://digital55.com/wp-content/uploads/2022/01/Cuando_y_por_que_debo_usar_redux_en_mis_proyectos_frontend.jpg" width="140" height="130"/> <img src="https://fd-development.com/images/expressjs.png" width="140" height="120"/> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" width="120" height="120"/> <img src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon.png" width="130" height="120"/> <img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" width="130" height="120"/> 
+### 🔒 Security, Cloud & Infrastructure
+*   **Frameworks & Standards:** ISO/IEC 27001 (ISMS), Risk Assessment, IT Governance, Compliance.
+*   **DevOps & Cloud:** Docker, Docker Compose, Kubernetes, Google Cloud Platform (GCP) Virtual Machines.
+*   **Security Implementation:** Spring Security, JSON Web Tokens (JWT), Secure API Gateways, Physical & Logical Access Control.
 
+### ⚙️ Backend Development & Databases
+*   **Languages:** Java (Spring Boot), TypeScript, Node.js (Express), JavaScript.
+*   **Databases & ORMs:** PostgreSQL, MySQL, MongoDB, Sequelize, Mongoose.
+*   **Architectures:** Microservices, RESTful APIs, Containerized Applications, Event-Driven Patterns.
 
-### Projects
+### 💻 Frontend & Tools
+*   **Frontend:** React, Redux, HTML5, CSS3, TailwindCSS.
+*   **Methodologies & Tools:** Scrum Master (SMPC), Git/GitHub, SAP ERP, Excel (Intermediate-Advanced).
 
-✔ Videogames single proyect (Responsive Updated)
+---
 
-<details>
-        <summary>More detail</summary>
-  
-  Proyecto individual de prueba realizado para Henry. Esta aplicación nos permite revisar un catalogo con juegos de video clásicos con sus respectivos detalles en pantalla completa. Además cuenta con pantalla de presentación, y una pantalla para realizar nuestros propios aportes con los juegos ausentes en el catálogo. Recientemente actualizado a responsive versión.
-  
-Repo Link:    https://github.com/Jos4ma/PI-Videogames-main    
-  
-Deployment Link:   https://pi-videogames-main-responsive.vercel.app/
+## 🚀 Featured Projects
 
- 
-  
-  Images:
-  
-  <img src="https://github.com/Jos4ma/data/blob/main/videogame1.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/videogame2.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/videogame3.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/videogame4.png" width="110" height="70">
-    </details>
+### 🔐 [User ApiRest SpringBoot Java](https://github.com)
+*   **Description:** Design and implementation of a secure RESTful API using **Java Spring Boot**. 
+*   **Security Focus:** Integrated robust authentication and authorization layers utilizing **JSON Web Tokens (JWT)** and comprehensive documentation via **Swagger**.
 
+### 🐳 [Microservices Architecture App](https://github.com)
+*   **Description:** A backend application structured completely under a **microservices pattern**.
+*   **Infrastructure Focus:** Deployed using **Docker** containers, orchestrated via **Docker Compose**, and hosted utilizing **Cloud Virtual Machines** with persistent **MongoDB** databases.
 
-✔Microservices Api App
-    <details>
-        <summary>More detail</summary>
-        Api RESTful created using microservices structure
-        Repo Link:  [https://github.com/Jos4ma/api-pf-ecommerce](https://github.com/Jos4ma/withMicroServices)
-    </details>
+### 🌐 [E-Commerce Platform Backend](https://github.com)
+*   **Description:** Scalable backend engine built for a musical instruments commercial platform.
+*   **Key Integrations:** Managed relational data persistence with **PostgreSQL/Sequelize** and secure external financial transactions processing using the **Stripe API**.
 
+---
 
-✔Api RESTful App con Spring Boot
-    <details>
-        <summary>More detail</summary>
-        For review Java language i created a Api RESTful using SpringBoot.
-        Repo Link:  [https://github.com/Jos4ma/apirestbootsprint](https://github.com/Jos4ma/apirestbootsprint)
-    </details>
+## 📊 Professional Background & Certifications
+*   **ISMS ISO/IEC 27001 Lead Implementer / Auditor Foundations** (2026)
+*   **Professional Certificate Scrum Master (SMPC)** (2021)
+*   **Microsoft Azure Fundamentals** (2021)
+*   **B.S. in Information Systems Engineering** – Universidad Tecnológica INACAP
 
+---
 
-✔Ecommerce Universal Music
-    <details>
-        <summary>More detail</summary>
-    
-  Proyecto en grupo realizado para el Bootcamp Henry, esta aplicación permite ver productos musicales de alta calidad, donde el usuario podrá filtrar productos           por calificación, precio y categorías, el usuario tendrá la posibilidad de agregar productos a un carrito donde solo podrá realizar el pago a travez de Stripe           si se registra con un correo o bien con un usuario de google. Además cuenta con un panel de administración el cual permite al admin listar todos los productos,         eliminar, editar y crear otros. También podrá ver todas las ordenes de compra que se hicieron, confirmarlas o cancelar.
+## 📬 Connect with me
 
-  
-  Repo Api Link:  https://github.com/Jos4ma/api-pf-ecommerce
+*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+*   **Email:** josemariavictorg@gmail.com
+*   **Languages:** English (Intermediate-Advanced B1/B2/C1 Practice) | Spanish (Native)
 
-  Repo Client Link:  https://github.com/Jos4ma/client-pf-ecommerce
+---
+*Searching technology and this is the way x)*
 
-  Web Link: www.web-universalmusic.app
- 
-  Described Video Link:  https://www.youtube.com/watch?v=S5DMwwXqmsA
-  
-  
-  Images:
-  
-  <img src="https://github.com/Jos4ma/data/blob/main/1.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/2.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/3.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/4.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/5.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/6.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/7.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/8.png" width="110" height="70">-<img src="https://github.com/Jos4ma/data/blob/main/9.png" width="110" height="70">
-  
-  
-  
-  
-  Developed Tools Used:
-  
-        React
-
-        Tailwindcss
-
-        Redux
-
-        Typescript
-
-        NodeJs
-
-        Express
-  
-        Stripe
-  
-        Cloudinary
-  
-        postgreSQL
-
-        Sequelize
-
-        Auth0
-  
-</details>
-
-
-  
-
-  
-<!--
-**Jos4ma/Jos4ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
